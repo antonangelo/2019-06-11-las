@@ -320,7 +320,7 @@ please preview your site before committing, and make sure to run
       <li role="presentation"><a data-os="linux" href="#openrefine-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
     </ul>
 
-    <div class="tab-content">
+<div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="openrefine-windows">
         <p>
           Check that you have either the Firefox or the Chrome browser installed and set as your default browser.
@@ -355,13 +355,8 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
-</div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+</div>
 
----
-layout: page
-title: Setup
-root: .
----
 ### Spreadsheets
 
 Spreadsheets are useful for data entry and data organization, and some
@@ -429,30 +424,3 @@ source spreadsheet program.
     install.
 
 </div>
-
-
-{% comment %}
-<div id="vm">
-  <h3>Virtual Machine</h3>
-
-  <p>
-    Some instructors prefer to have learners use a virtual machine (VM)
-    rather than install software on their own computers.  If your
-    instructors have chosen to do this, please:
-  </p>
-  <ol>
-    <li>
-      Install <a href="https://www.virtualbox.org/">VirtualBox</a>.
-    </li>
-    <li>
-      Download our <a href="{{site.swc_vm}}">VM image</a>.
-      <strong>Warning:</strong> this file is 1.7 GByte, so please
-      download it <em>before</em> coming to your workshop.
-    </li>
-    <li>
-      Load the VM into VirtualBox by selecting "Import Appliance" and
-      loading the <code>.ova</code> file.
-    </li>
-  </ol>
-</div>
-{% endcomment %}
