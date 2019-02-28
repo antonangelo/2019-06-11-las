@@ -357,7 +357,7 @@ please preview your site before committing, and make sure to run
   </div>
 </div>
 
-<div class="col-md-1" markdown="4">
+<div class="col-md-4" markdown="1">
 
 ### Spreadsheets
 
