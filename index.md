@@ -359,7 +359,7 @@ please preview your site before committing, and make sure to run
 
 <div markdown="1">
 
-### Spreadsheets
+### Tidy Data for Librarians
 
 Spreadsheets are useful for data entry and data organization, and some
 subsetting and sorting of the data as well as getting an overview of the
