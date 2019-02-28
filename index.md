@@ -357,7 +357,7 @@ please preview your site before committing, and make sure to run
   </div>
 </div>
 
-<div class="col-md-1" markdown="1">
+<div class="col-md-1" markdown="4">
 
 ### Spreadsheets
 
@@ -375,7 +375,7 @@ For this lesson, if you don't have a spreadsheet program already, you
 can use [LibreOffice](https://www.libreoffice.org). It's a free, open
 source spreadsheet program.
 
-</div
+</div>
 
 <div class="col-md-4" markdown="1">
 
