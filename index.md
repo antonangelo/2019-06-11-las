@@ -230,9 +230,9 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% include lc/schedule.html %}
 {% endif %}
 <div>
- <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue%20(4).JPG">
-   <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue%20(6).JPG">
-   <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue%20(8).JPG">
+ <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue1.png">
+   <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue2.png">
+   <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue3.png">
   
 </div>
 
