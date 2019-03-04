@@ -214,6 +214,14 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 
 {% comment %}
+
+<div>
+ <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue1.png">
+   <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue2.png">
+   <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue3.png">
+  
+</div>
+
 SCHEDULE
 
 Show the workshop's schedule.  Edit the items and times in the table
@@ -229,12 +237,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% elsif page.carpentry == "lc" %}
 {% include lc/schedule.html %}
 {% endif %}
-<div>
- <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue1.png">
-   <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue2.png">
-   <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue3.png">
-  
-</div>
+
 
 {% comment %}
 Collaborative Notes
