@@ -3,12 +3,12 @@ layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "Library Association of Singapore"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "<a href='http://maps.ntu.edu.sg/maps#q:Tutorial%20Room%20+%2052%20-%20LHN'> Tutorial Room + 52 - LHN</a>
+address: "<a href='http://maps.ntu.edu.sg/maps#q:Tutorial%20Room%20+%2052%20-%20LHN'> Tutorial Room + 52 - LHN</a><br />
 The Arc - Learning Hub North (LHN)
-LHN-02-18 (<a href='http://maps.ntu.edu.sg/maps#q:Tutorial%20Room%20+%2052%20-%20LHN'>click here for NTU campus map for this address</a>)
-(next to Lee Wee Nam Library)
-Nanyang Technological University
-63 Nanyang Drive
+LHN-02-18 (<a href='http://maps.ntu.edu.sg/maps#q:Tutorial%20Room%20+%2052%20-%20LHN'>click here for NTU campus map for this address</a>)<br />
+(next to Lee Wee Nam Library)<br />
+Nanyang Technological University<br />
+63 Nanyang Drive<br />
 Singapore 636922
 "      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "sg"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
