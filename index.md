@@ -111,6 +111,13 @@ address.
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
 </p>
 {% endif %}
+<div>
+  
+<img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue1.png">
+<img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue2.png">
+<img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue3.png">
+  
+</div>
 
 {% comment %}
 DATE
@@ -215,12 +222,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 {% comment %}
 
-<div>
- <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue1.png">
-   <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue2.png">
-   <img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue3.png">
-  
-</div>
+
 
 SCHEDULE
 
