@@ -111,13 +111,7 @@ address.
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
 </p>
 {% endif %}
-<div>
-  
-<img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue1.png">
-<img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue2.png">
-<img src="https://github.com/antonangelo/2019-06-11-las/blob/gh-pages/venue3.png">
-  
-</div>
+
 
 {% comment %}
 DATE
@@ -198,6 +192,13 @@ Display the contact email address set in the configuration file.
   {% endif %}
   for more information.
 </p>
+<div>
+  
+<img src="https://raw.githubusercontent.com/antonangelo/2019-06-11-las/gh-pages/venue1.png">
+<img src="https://raw.githubusercontent.com/antonangelo/2019-06-11-las/gh-pages/venue2.png">
+<img src="https://raw.githubusercontent.com/antonangelo/2019-06-11-las/gh-pages/venue3.png">
+  
+</div>
 
 <hr/>
 
