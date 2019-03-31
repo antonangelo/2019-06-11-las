@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "Library Association of Singapore"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "<a href='http://maps.ntu.edu.sg/maps#q:Tutorial%20Room%20+%2052%20-%20LHN'> Tutorial Room + 52 - LHN</a><br />
+address: "<a href='http://maps.ntu.edu.sg/maps#q:Tutorial%20Room%20+%2052%20-%20LHN'> Tutorial Room + 14 - LHN</a><br />
 The Arc - Learning Hub North (LHN)
 LHN-02-18 (<a href='http://maps.ntu.edu.sg/maps#q:Tutorial%20Room%20+%2052%20-%20LHN'>click here for NTU campus map for this address</a>)<br />
 (next to Lee Wee Nam Library)<br />
